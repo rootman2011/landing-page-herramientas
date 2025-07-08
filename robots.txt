@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lordcraft.online/sitemap.xml
+Sitemap: http://lordcraft.online/sitemap.xml
